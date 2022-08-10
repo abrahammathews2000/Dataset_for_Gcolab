@@ -1,13 +1,13 @@
-# COBE/FIRAS CMB monopole spectrum
-# Reference1 = Table 4 of Fixsen et al. 1996 ApJ 473, 576.
-# Reference2 = Fixsen & Mather 2002 ApJ 581, 817.
-# Column 1 = frequency from Table 4 of Fixsen et al., units = cm^-1
-# Column 2 = FIRAS monopole spectrum computed as the sum
-#             of a 2.725 K BB spectrum and the
-#             residual in column 3, units = MJy/sr
-# Column 3 = spectrum uncertainty (1-sigma) from Table 4 of Fixsen et al.,
-#             units = kJy/sr
-#             Fixsen et al., units = kJy/sr
+#COBE/FIRAS CMB monopole spectrum
+#Reference1 = Table 4 of Fixsen et al. 1996 ApJ 473, 576.
+#Reference2 = Fixsen & Mather 2002 ApJ 581, 817.
+#Column 1 = frequency from Table 4 of Fixsen et al., units = cm^-1
+#Column 2 = FIRAS monopole spectrum computed as the sum
+#of a 2.725 K BB spectrum and the
+#residual in column 3, units = MJy/sr
+#Column 3 = spectrum uncertainty (1-sigma) from Table 4 of Fixsen et al.,
+#units = kJy/sr
+#Fixsen et al., units = kJy/sr
 #
 # 
 # 
