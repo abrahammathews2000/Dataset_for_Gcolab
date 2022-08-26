@@ -1,0 +1,15 @@
+No.,Object Name,RA,DEC,Type,Velocity,Redshift,Redshift Flag,Magnitude and Filter,Separation,References,Notes,Photometry Points,Positions,Redshift Points,Diameter Points,Associations
+1,"<a HREF=""#"" onclick=""getObjectSearchInfo(jQuery, 2, this); return false;"">WISEA J205844.02-573656.3</a>",314.68344,-57.61566,IrS,,,,,0.167,0,0,12,1,0,0,0
+2,"<a HREF=""#"" onclick=""getObjectSearchInfo(jQuery, 2, this); return false;"">WISEA J205845.92-573701.5</a>",314.69135,-57.61709,IrS,,,,,0.423,0,0,12,1,0,0,0
+3,"<a HREF=""#"" onclick=""getObjectSearchInfo(jQuery, 2, this); return false;"">WISEA J205839.78-573651.1</a>",314.66550,-57.61409,UvS,,,,,0.43,0,0,21,3,0,0,0
+4,"<a HREF=""#"" onclick=""getObjectSearchInfo(jQuery, 2, this); return false;"">GALEXASC J205840.02-573639.8  </a>",314.66678,-57.61106,UvS,,,,,0.479,0,0,3,1,0,0,0
+5,"<a HREF=""#"" onclick=""getObjectSearchInfo(jQuery, 2, this); return false;"">WISEA J205846.33-573719.8</a>",314.69306,-57.62219,IrS,,,,,0.597,0,0,12,1,0,0,0
+6,"<a HREF=""#"" onclick=""getObjectSearchInfo(jQuery, 2, this); return false;"">WISEA J205844.95-573729.7</a>",314.68730,-57.62494,IrS,,,,,0.603,0,0,12,1,0,0,0
+7,"<a HREF=""#"" onclick=""getObjectSearchInfo(jQuery, 2, this); return false;"">GALEXASC J205845.70-573726.8  </a>",314.69113,-57.62450,G,,,,19.1r,0.65,0,0,5,2,0,0,0
+8,"<a HREF=""#"" onclick=""getObjectSearchInfo(jQuery, 2, this); return false;"">WISEA J205847.91-573653.8</a>",314.69965,-57.61497,IrS,,,,,0.688,0,0,12,1,0,0,0
+9,"<a HREF=""#"" onclick=""getObjectSearchInfo(jQuery, 2, this); return false;"">WISEA J205846.04-573734.7</a>",314.69185,-57.62631,IrS,,,,,0.75,0,0,12,1,0,0,0
+10,"<a HREF=""#"" onclick=""getObjectSearchInfo(jQuery, 2, this); return false;"">WISEA J205843.29-573743.0</a>",314.68030,-57.62860,IrS,,,,,0.752,0,0,18,2,0,0,0
+11,"<a HREF=""#"" onclick=""getObjectSearchInfo(jQuery, 2, this); return false;"">WISEA J205848.34-573707.3</a>",314.70137,-57.61841,G,,,,18.7r,0.753,0,0,18,3,0,0,0
+12,"<a HREF=""#"" onclick=""getObjectSearchInfo(jQuery, 2, this); return false;"">WISEA J205838.04-573624.7</a>",314.65853,-57.60688,IrS,,,,,0.844,0,0,12,1,0,0,0
+13,"<a HREF=""#"" onclick=""getObjectSearchInfo(jQuery, 2, this); return false;"">WISEA J205848.35-573628.7</a>",314.70149,-57.60799,IrS,,,,,0.889,0,0,12,1,0,0,0
+14,"<a HREF=""#"" onclick=""getObjectSearchInfo(jQuery, 2, this); return false;"">WISEA J205841.87-573752.7</a>",314.67401,-57.63095,UvS,,,,,0.901,0,0,16,2,0,0,0
