@@ -1,7 +1,5 @@
-
-
-Results from heasarc_fermilpsc: Fermi LAT 12-Year Point Source Catalog (4FGL-DR3)
-Coordinate system:  Equatorial
+#Results from heasarc_fermilpsc: Fermi LAT 12-Year Point Source Catalog (4FGL-DR3)
+#Coordinate system:  Equatorial
 |name              |ra        |dec      |flux_1_100_gev|flux_1_100_gev_error|detection_significance|spectrum_type   |alt_gammaray_name_1|assoc_name                  |analysis_flags|
 |4FGL J2109.8-8618 |21 09 50.9|-86 18 28|    2.5785e-10|          3.6704e-11|               13.3576|PowerLaw        |3FGL J2108.6-8619  |2MASS J21101113-8618473     |           000|
 |4FGL J1027.0-8542 |10 27 03.5|-85 42 59|    1.0351e-09|          5.7068e-11|               34.9142|LogParabola     |3FGL J1026.4-8542  |PKS 1029-85                 |           000|
