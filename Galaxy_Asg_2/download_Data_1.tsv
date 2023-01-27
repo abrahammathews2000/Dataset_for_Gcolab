@@ -1,41 +1,4 @@
-#
-#   VizieR Astronomical Server vizier.cds.unistra.fr
-#    Date: 2023-01-27T16:38:48 [V7.296]
-#   In case of problem, please report to:	cds-question@unistra.fr
-#
-#
-#Coosys	J2000:	eq_FK5 J2000
-#INFO	version=7.296	
-#INFO	-ref=VIZ63d3fd742842a9	
-#INFO	-out.max=unlimited	
-#INFO	queryParameters=13	
-#-oc.form=dec
-#-out.max=unlimited
-#-order=I
-#-out.src=V/125/obcat
-#-nav=cat:V/125&tab:{V/125/obcat}&key:source=V/125&HTTPPRM:&&-ref=VIZ63d3fd742842a9&-out.max=50&-out.form=HTML Table&-oc.form=sexa&-c.eq=J2000&-c.r=  2&-c.u=arcmin&-c.geom=r&-order=I&-out=ALS&-out=GLON&-out=GLAT&-ignore=Simbad=*&Simbad=Simbad&-file=.&-meta.ucd=2&-meta=1&-meta.foot=1&-usenav=1&-bmark=POST&-out.src=V/125/obcat
-#-c.eq=J2000
-#-c.r=  2
-#-c.u=arcmin
-#-c.geom=r
-#-source=V/125/obcat
-#-out=ALS
-#-out=GLON
-#-out=GLAT
-#
-
-#RESOURCE=yCat_5125
-#Name: V/125
-#Title: Photometry and Spectroscopy for Luminous Stars (Reed 2005)
-#Table	V_125_obcat:
-#Name: V/125/obcat
-#Title: Catalog of star names/identifiers, positions, and cross-references, ordered by increasing RA
-#Column	ALS	(I5)	Alma LS number (G1)	[ucd=meta.id;meta.main]
-#Column	GLON	(F8.2)	Galactic longitude	[ucd=pos.galactic.lon]
-#Column	GLAT	(F8.2)	Galactic latitude	[ucd=pos.galactic.lat]
-ALS|GLON|GLAT
- |deg|deg
------|--------|--------
+ALS|GLON(deg)|GLAT(deg)
 13354|  117.32|    1.60
 18110|  117.01|    0.01
 13355|  116.98|   -0.14
@@ -18729,4 +18692,3 @@ ALS|GLON|GLAT
 13352|  117.23|    1.24
 13353|  118.09|    5.47
 18108|  116.93|   -0.29
-
